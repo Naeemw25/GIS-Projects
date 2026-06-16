@@ -1,5 +1,2 @@
-# GIS-Projects
-Please view my GIS Projects.
-
 CODG 101 Module 2: This was my first GIS related assignment during my certificate, it required working with QGIS.
 The steps were: Click project tab, click new - click layer menu and click add raste rlayer - add the GeoTIFF file Next, we had to change the scales of the orthophotograph and answer the questions. This was the first time I even used QGIS and it showed me how much technology has changed. Although QGIS is not used as much anymore, this is sort of "good to have" skill that shows the difference between QGIS and ArcGIS. Lastly, some ways I could have improved this was by adding a scale, NW/SE coordinates and adding "Land Use" somewhere in the title.
